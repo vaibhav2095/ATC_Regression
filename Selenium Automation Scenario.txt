@@ -1,0 +1,22 @@
+URL: http://automationpractice.com/index.php
+
+Sign up into the application
+
+Automation Steps:
+
+1. Login into the application
+2. Navigate to 'My Addresses' and add a new address
+3. Fill all the informations(not only the mandatory)
+4. Click 'Save'
+5. Navigate to 'Women' --> Summer dresses
+6. The Items would be in 'Grid view'. Change it to 'List View'.
+7. Click on the first item to view.
+8. Increase the quantity to 5
+9. Change the size to 'L'
+10.Select any colour. 
+11.Add to cart
+12.Click 'Continue shopping' and repeat the same for the other 2 items as well under the summer dresses.
+13. Proceed to checkout and complete the payment
+14. Move to your profile and check 'order history and details'
+15. Capture screenshot of the order history
+16. Sign out from the application
